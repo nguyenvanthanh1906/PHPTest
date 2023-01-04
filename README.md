@@ -1,3 +1,5 @@
-# PHPTest
-cd PHPTest
-run docker-compose up
+# PHPTest<br />
+### run commands:
+##### cd PHPTest<br />
+##### docker-compose up<br />
+#### copy create_table.sql and run in MYSQL Workbench
