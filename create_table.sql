@@ -3,5 +3,5 @@ CREATE TABLE `php_test`.`new_table` (
   `name` VARCHAR(45) NOT NULL,
   `start_date` DATETIME NOT NULL,
   `end_date` DATETIME NOT NULL,
-  `status` VARCHAR(20) NOT NULL,
+  `status` INT NOT NULL,
   PRIMARY KEY (`id`));
